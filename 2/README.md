@@ -55,6 +55,7 @@ const 0x100
 load
 store 10
 shr 20
+store start 
 ```
 
 ## Использование ассемблера:
